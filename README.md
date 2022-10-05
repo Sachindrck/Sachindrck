@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="badges">
+  <img align="right" img src="https://komarev.com/ghpvc/?username=Sachindrck&color=brightgreen" alt=""/>
+</div>
+
 <!--
 **Sachindrck/Sachindrck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
